@@ -1,4 +1,4 @@
-### An Abstract Stop-prop Directive
+### An Abstract Stop-Prop Directive
 
 This is a simple, abstract directive to stop event propagation. I figure it might be useful to someone. 
 
